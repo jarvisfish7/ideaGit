@@ -16,5 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         System.out.println("test01");
+        System.out.println("test02/////");
     }
 }
